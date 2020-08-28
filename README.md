@@ -22,6 +22,7 @@
 users/solved/DL - Mosaic.js
 
 2. Create the water mask.
+
 2.1. To help in the process of grabbing samples and reduce the complexity of identifying Aquaculture ponds, a water mask is generated:
 
 users/solved/DL - Clusterization_PreDataset.js
