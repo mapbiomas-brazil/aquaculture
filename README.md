@@ -33,4 +33,5 @@ users/solved/DL - TrainTest Geom.js
 
 3. Once trainned, run the U-Net classifier:
 Example:
+
 users/solved/Mapbiomas 5 Brazil - UNet - Aquicultura.ipynb
