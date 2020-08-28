@@ -27,7 +27,7 @@ users/solved/DL - Mosaic.js
 
 DL - Clusterization_PreDataset.js
 
-2.2 Grabbing samples. DL classifiers demand exaustive selection of tranning samples. Guided the learning processess by manuaaly indicating areas of non-aquaculture and aquaculture:
+2.2. Grabbing samples. DL classifiers demand exaustive selection of tranning samples. Guided the learning processess by manuaaly indicating areas of non-aquaculture and aquaculture:
 
 users/solved/DL - TrainTest Geom.js
 
