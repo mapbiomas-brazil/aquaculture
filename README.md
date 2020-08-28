@@ -17,6 +17,7 @@
 
 # How to use
 1. Prepare environment.
+
 1.1 Differently from other MapBiomas classification schemes, the Aquaculture mapping is based on DeepLearning (DL) classifier: U-Net. Thus it uses the COLAB structure, rather than purelly GEE code editor. First things first, prepare the mosaics:
 
 users/solved/DL - Mosaic.js
